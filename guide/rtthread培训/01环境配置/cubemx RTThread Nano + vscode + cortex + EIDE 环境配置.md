@@ -128,6 +128,8 @@ vscode 中 点击扩展，找到cortex的设置，及其扩展设置：
 
 [vscode平台上通过Embedded IDE搭建单片机开发环境-CSDN博客](https://blog.csdn.net/weixin_41080308/article/details/128053268?sharetype=blog&shareId=128053268&sharerefer=APP&sharesource=m0_73016766&sharefrom=link)
 
+[vscode平台上搭建C51和STM32的类似于keil5的功能（刘航宇亲测有效）](https://b23.tv/z4tNlrk)
+
 
 
 # 总结
